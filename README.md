@@ -1,5 +1,8 @@
-Custom Sublime Text 2 Apex - Snippets and Visualforce - Completions
+Sublime Text 2 - SFDC
 ===================================================================
+
+* Apex - Snippets
+* Visualforce - Completions
 
 Installing
 ----------

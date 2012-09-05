@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[public String ${1:id} { get; set; }]]></content>
+    <tabTrigger>ps</tabTrigger>
+    <scope>source.java</scope> 
+</snippet>

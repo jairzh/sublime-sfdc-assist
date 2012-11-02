@@ -57,7 +57,7 @@ class VisualforceCompletions(sublime_plugin.EventListener):
             ("apex:outputField\tVF", "apex:outputField value=\"$1\"/>"),
             ("apex:outputLabel\tVF", "apex:outputLabel value=\"$1\" for=\"$2\"/>"),
             ("apex:outputLink\tVF", "apex:outputLink value=\"$1\"/>"),
-            ("apex:outputPanel\tVF", "apex:outputPanel id=\"$1\"/>"),
+            ("apex:outputPanel\tVF", "apex:outputPanel id=\"$1\">\n\t$2\n</apex:outputPanel>"),
             ("apex:outputText\tVF", "apex:outputText value=\"$1\"/>"),
             ("apex:page\tVF", "apex:page id=\"$1\">\n\t$2\n</apex:page>"),
             ("apex:pageBlock\tVF", "apex:pageBlock mode=\"${1:detail}\">\n\t$2\n</apex:pageBlock>"),

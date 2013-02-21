@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[System.assertEquals(${1:expect}, ${0:actual});]]></content>
+    <tabTrigger>assert</tabTrigger>
+    <scope>source.java</scope>
+    <description>Apex Assert Equals</description>
+</snippet>
